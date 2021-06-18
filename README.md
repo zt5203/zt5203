@@ -4,7 +4,7 @@
 - 💞️ 欢迎交流学习
 - 📫 以上
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zt5203)](https://github.com/zt5203/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zt5203)](https://github.com/zt5203/github-readme-stats&theme=radical)
 <!---
 zt5203/zt5203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
